@@ -1,6 +1,7 @@
-### Hi, Nice to meet you! Glenda López 👋
+### Hi, Nice to meet you! Glenda López  👋
 ### ✨ _computer engineering_ ✨  
-🔭 _I’m currently working as Project Leader_ 🚀
+🔭 I’m currently working as Project Leader ![image](https://img.shields.io/badge/Agile-Scrum-blue) 
+
   I started programming :computer: in  ![image](https://i.ibb.co/4mQdgVx/images.png) for the banking sector, then in parallel developing  aplicación cliente/servidor using
    Mainframe, Java, Python, Django,  MySql, Vb Access, Sql Server 
  ### Languages Framewoks Platforms and Libraries :bookmark:
